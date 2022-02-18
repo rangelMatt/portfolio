@@ -11,70 +11,70 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Animal Racer",
+        "startDate": "2022",
+        "description": "A trivia race project to showcase creativity and construct a trivial website that gives our users the ability to test their animal knowledge while experiencing the excitement of a real-time race.",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
         ],
+        "url": "https://the-go-gitters.github.io/trivia-race/index.html",
+        "technologies": [
+          {
+            "class": "",
+            "name": "JavaScript"
+          },
+          {
+            "class": "",
+            "name": "HTML"
+          },
+          {
+            "class": "",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Bus Mall Products",
+        "startDate": "2022",
+        "description": "Project assignment that I learned how to toggle pictures and render a graph based out of how many likes each picture got.",
+        "images": [
+          "images/busMall-screenshot.png",
+          "images/busMall-screenshot2.png"
+        ],
+        "url": "https://rangelmatt.github.io/lab11/",
+        "technologies": [
+          {
+            "class": "",
+            "name": "JavaScript"
+          },
+          {
+            "class": "",
+            "name": "HTML"
+          }
+        ]
+      },
+      {
+        "title": "FUTURE PROJECT HERE",
+        "startDate": "2022",
+        "description": "TBD",
+        "images": [
+          "",
+          ""
+        ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "",
+            "name": ""
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "",
+            "name": ""
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "",
+            "name": ""
           }
         ]
       }
