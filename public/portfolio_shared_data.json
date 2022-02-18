@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Matt Rangel",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Software Engineer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/rangelMatt",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
+          "name": "LinkedIn",
+          "url": "www.linkedin.com/in/matthew-rangel",
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "mRangel.jpg"
     },
     "skills": {
       "icons": [
