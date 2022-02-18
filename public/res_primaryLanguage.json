@@ -15,8 +15,8 @@
         "startDate": "2022",
         "description": "A trivia race project to showcase creativity and construct a trivial website that gives our users the ability to test their animal knowledge while experiencing the excitement of a real-time race.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/animal-racer-home.png",
+          "images/animal-racer-screenshot.png"
         ],
         "url": "https://the-go-gitters.github.io/trivia-race/index.html",
         "technologies": [
@@ -59,7 +59,7 @@
         "startDate": "2022",
         "description": "TBD",
         "images": [
-          "",
+          "https://images.unsplash.com/photo-1631546421266-2806ecd76f3f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1035&q=80",
           ""
         ],
         "url": "",
