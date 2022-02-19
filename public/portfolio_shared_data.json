@@ -11,7 +11,7 @@
         {
           "name": "LinkedIn",
           "url": "www.linkedin.com/in/matthew-rangel",
-          "class": "fab fa-instagram"
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "mRangel.jpg"
@@ -19,7 +19,7 @@
     "skills": {
       "icons": [
         {
-          "name": "HTML 5",
+          "name": "HTML",
           "class": "devicon-html5-plain",
           "level": "95"
         },
@@ -29,24 +29,9 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
-        {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "70"
-        },
-        {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
         },
         {
           "name": "Bootstrap",
@@ -54,7 +39,7 @@
           "level": "85"
         },
         {
-          "name": "C#",
+          "name": "",
           "class": "devicon-csharp-plain",
           "level": "65"
         },
