@@ -39,13 +39,18 @@
           "level": "85"
         },
         {
-          "name": "",
-          "class": "devicon-csharp-plain",
+          "name": "React",
+          "class": "devicon-react-plain",
           "level": "65"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "60"
+        },
+        {
+          "name": "GitHub",
+          "class": "devicon-github-plain",
           "level": "60"
         }
       ]
