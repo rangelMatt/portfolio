@@ -35,6 +35,47 @@
         ]
       },
       {
+        "title": "CodeFellows Survey",
+        "startDate": "2022",
+        "description": "Took existing survey application and added additional functionality, storing data in user subdomains. Each subdomain will have the ability to organize, take notes and delete survey data from their organization.",
+        "images": [
+          "images/cfSurvey_face-4.13.2022.png",
+          "images/cfSurvey_notes-4.13.2022.png",
+          "images/cfSurvey_surveys-4.13.2022.png"
+        ],
+        "url": "https://github.com/the-power-coders",
+        "technologies": [
+          {
+            "class": "",
+            "name": "JavaScript"
+          },
+          {
+            "class": "",
+            "name": "React"
+          },
+          {
+            "class": "",
+            "name": "React-Bootstrap"
+          },
+          {
+            "class": "",
+            "name": "Axios"
+          },
+          {
+            "class": "",
+            "name": "Express"
+          },
+          {
+            "class": "",
+            "name": "HTML"
+          },
+          {
+            "class": "",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
         "title": "Animal Racer",
         "startDate": "2022",
         "description": "A trivia race project to showcase creativity and construct a trivial website that gives our users the ability to test their animal knowledge while experiencing the excitement of a real-time race.",
