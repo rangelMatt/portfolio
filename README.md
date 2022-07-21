@@ -1,4 +1,4 @@
-# [Portfolio](rangel-portfolio.netlify.app)
+# [Portfolio](https://rangelmatt.github.io/portfolio/)
 
 Number and name of feature: ________________________________
 
@@ -12,7 +12,7 @@ Actual time needed to complete: ________
 
 ## NOTES
 
-`npm run build` was ran, and it is optimizing porduction build. NOt sure what that means just yet...
+`npm run build` to start
 
 --------------------------
 
