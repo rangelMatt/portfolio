@@ -1,6 +1,7 @@
 @import '/src/scss/themes/theme-dark.scss';
 @import '/src/scss/themes/theme-light.scss';
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200;300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;0,700;1,700&display=swap');
 
 html {
 	font-size: 62.5%;
@@ -18,7 +19,7 @@ html {
 .title-container {
 	height: 50px;
 	color: white;
-	font-weight:bolder
+	font-weight: bolder
 }
 
 .title-styles {
@@ -57,10 +58,36 @@ header .nav {
 }
 
 .github-corner:hover .octo-arm {
-	animation:octocat-wave 560ms ease-in-out
+	animation: octocat-wave 560ms ease-in-out
 }
 
-@keyframes octocat-wave {0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}
+@keyframes octocat-wave {
+
+	0%,
+	100% {
+		transform: rotate(0)
+	}
+
+	20%,
+	60% {
+		transform: rotate(-25deg)
+	}
+
+	40%,
+	80% {
+		transform: rotate(10deg)
+	}
+}
+
+@media (max-width:500px) {
+	.github-corner:hover .octo-arm {
+		animation: none
+	}
+
+	.github-corner .octo-arm {
+		animation: octocat-wave 560ms ease-in-out
+	}
+}
 
 .language-icon {
 	font-size: 50px;
@@ -81,8 +108,7 @@ header .nav {
 
 .skills-tile {
 	background-color: transparentize(#F8F5F4, 0.95);
-	padding: 10px 10px div
-	 10px;
+	padding: 10px 10px div 10px;
 	width: 100px;
 	margin: 5px 0 5px 0;
 	border-radius: 8px;
@@ -100,7 +126,7 @@ header h1 {
 	text-align: center;
 	font-weight: 600 !important;
 	color: #ffffff;
-	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-family: 'Merriweather', sans-serif;
 	margin: 0 auto 18px auto;
 	width: 100%;
 }
@@ -130,7 +156,7 @@ header h1 {
 
 #about h1 {
 	padding-top: 5%;
-	font: 18px/24px 'opensans-bold', sans-serif;
+	font: 18px/24px 'Merriweather', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	color: black;
@@ -387,6 +413,7 @@ header h1 {
 	.portfolio .closeButtonResponsive {
 		display: block;
 	}
+
 	.portfolio .portfolio-item {
 		margin-bottom: 30px;
 	}
@@ -403,7 +430,7 @@ header h1 {
 .section-title {
 	padding-top: 5%;
 	padding-bottom: 5%;
-	font: 18px/24px 'opensans-bold', sans-serif;
+	font: 20px/24px 'Merriweather', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	color: #fff;
@@ -430,7 +457,7 @@ footer {
 
 footer a,
 footer a:visited {
-	color: #fff;
+	color: rgba(255, 255, 255, 0.616);
 }
 
 footer a:hover,
@@ -439,6 +466,7 @@ footer a:focus {
 }
 
 .social-links {
-	margin-top: 10px;
-	font-size: 22px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	font-size: 40px;
 }

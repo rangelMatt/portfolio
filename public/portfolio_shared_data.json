@@ -12,6 +12,16 @@
           "name": "LinkedIn",
           "url": "https://www.linkedin.com/in/matthew-rangel",
           "class": "fab fa-linkedin"
+        },
+        {
+          "name": "E mail",
+          "url": "mailto:mattrangel@gmail.com",
+          "class": "fa fa-envelope"
+        },
+        {
+          "name": "LinkedIn",
+          "url": "tel:+1-206-816-5883",
+          "class": "fa fa-phone"
         }
       ],
       "image": "mRangel.jpg"
