@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Matt Rangel",
-      "titles": [ "Software Engineer" ],
+      "titles": [ "Software Developer"],
       "social": [
         {
           "name": "github",
@@ -19,13 +19,8 @@
     "skills": {
       "icons": [
         {
-          "name": "HTML",
-          "class": "devicon-html5-plain",
-          "level": "95"
-        },
-        {
-          "name": "CSS 3",
-          "class": "devicon-css3-plain",
+          "name": "Python",
+          "class": "devicon-python-plain",
           "level": "95"
         },
         {
@@ -34,14 +29,45 @@
           "level": "70"
         },
         {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "65"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "65"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "65"
         },
         {
           "name": "React",
           "class": "devicon-react-plain",
           "level": "65"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "Node.js",
+          "class": "devicon-nodejs-plain",
+          "level": "85"
+        },
+
+        {
+          "name": "HTML",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
         },
         {
           "name": "Git",

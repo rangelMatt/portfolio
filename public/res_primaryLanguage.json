@@ -126,22 +126,29 @@
         "title": "Software Engineer",
         "years": "12.2021 - 06.2022",
         "mainTech": [
-          "JavaScript 4/4/22"
+          "Python 6/24/22"
         ],
         "technologies": [
+          "Python",
+          "JavaScript",
+          "SQL",
+          "Django",
+          "Docker",
+          "Data Analysis/Visualization(Numpy, Pandas, Scikit-Learn, MatPlotLib, Plotly)",
+          "MongoDB",
+          "Express",
+          "React-Bootstrap",
+          "Node.js",
+          "Bootstrap",
+          "React",
+          "JSON",
+          "Bash",
           "HTML",
           "CSS",
-          "JavaScript",
-          "Bootstrap",
+          "Agile",
           "Git",
           "GitHub",
-          "React",
-          "Netlify",
-          "Agile",
-          "VS Code",
-          "Visual Studio",
-          "JSON",
-          "Bash"
+          "VS Code"
         ]
       }
     ]
