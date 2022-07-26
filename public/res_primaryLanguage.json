@@ -1,155 +1,160 @@
 {
-    "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Matt Rangel. I was a project manager for a large electrical construction company, and now a Software Developer. I have worked my way from being a laborer to a project manager in a decades time. In each role, I have been entrusted to guide teams and have worked successfully alongside some excellent people. I’m looking for that same environment within the tech field, so I can learn new skills and collaborate in solving problems.",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hello Everyone!",
+    "description": "I'm Matt Rangel. Former project manager for a large electrical construction company, and now a Software Developer. I have worked my way from being a laborer to a project manager in a decades time. In each role, I have been entrusted to guide teams and have worked successfully alongside some excellent people. I’m looking for that same environment within the tech field, so I can learn new skills and collaborate in solving problems. Software Development reminds me when I started in the construction field, where I knew nothing. I had to lean heavily on my peers and the more I learned, the more I realize I didn’t know. So I keep an open mind, keeping driving and learning new concepts that excite me and find ways on how I can apply my new found skill to solve real world problems. I realize I’m cracking my creative side open and see whole new set of possibilities. I would love to be more involved in helping solve the worlds problems, through the power of coding!",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "FUTURE PROJECT HERE",
+      "startDate": "2022",
+      "description": "TBD",
+      "images": [
+        "https://images.unsplash.com/photo-1631546421266-2806ecd76f3f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1035&q=80",
+        ""
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "",
+          "name": ""
+        },
+        {
+          "class": "",
+          "name": ""
+        },
+        {
+          "class": "",
+          "name": ""
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "FUTURE PROJECT HERE",
-        "startDate": "2022",
-        "description": "TBD",
-        "images": [
-          "https://images.unsplash.com/photo-1631546421266-2806ecd76f3f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1035&q=80",
-          ""
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "",
-            "name": ""
-          },
-          {
-            "class": "",
-            "name": ""
-          },
-          {
-            "class": "",
-            "name": ""
-          }
-        ]
-      },
-      {
-        "title": "CodeFellows Survey",
-        "startDate": "2022",
-        "description": "Took existing survey application and added additional functionality, storing data in user subdomains. Each subdomain will have the ability to organize, take notes and delete survey data from their organization.",
-        "images": [
-          "images/cfSurvey_face-4.13.2022.png",
-          "images/cfSurvey_notes-4.13.2022.png",
-          "images/cfSurvey_surveys-4.13.2022.png"
-        ],
-        "url": "https://github.com/the-power-coders",
-        "technologies": [
-          {
-            "class": "",
-            "name": "JavaScript"
-          },
-          {
-            "class": "",
-            "name": "React"
-          },
-          {
-            "class": "",
-            "name": "React-Bootstrap"
-          },
-          {
-            "class": "",
-            "name": "Axios"
-          },
-          {
-            "class": "",
-            "name": "Express"
-          },
-          {
-            "class": "",
-            "name": "HTML"
-          },
-          {
-            "class": "",
-            "name": "CSS"
-          }
-        ]
-      },
-      {
-        "title": "Animal Racer",
-        "startDate": "2022",
-        "description": "A trivia race project to showcase creativity and construct a trivial website that gives our users the ability to test their animal knowledge while experiencing the excitement of a real-time race.",
-        "images": [
-          "images/animal-racer-home.png",
-          "images/animal-racer-screenshot.png"
-        ],
-        "url": "https://the-go-gitters.github.io/trivia-race/index.html",
-        "technologies": [
-          {
-            "class": "",
-            "name": "JavaScript"
-          },
-          {
-            "class": "",
-            "name": "HTML"
-          },
-          {
-            "class": "",
-            "name": "CSS"
-          }
-        ]
-      },
-      {
-        "title": "Bus Mall Products",
-        "startDate": "2022",
-        "description": "Project assignment that I learned how to toggle pictures and render a graph based out of how many likes each picture got.",
-        "images": [
-          "images/busMall-screenshot.png",
-          "images/busMall-screenshot2.png"
-        ],
-        "url": "https://rangelmatt.github.io/lab11/",
-        "technologies": [
-          {
-            "class": "",
-            "name": "JavaScript"
-          },
-          {
-            "class": "",
-            "name": "HTML"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "Code Fellows",
-        "title": "Software Engineer",
-        "years": "12.2021 - 06.2022",
-        "mainTech": [
-          "Python 6/24/22"
-        ],
-        "technologies": [
-          "Python",
-          "JavaScript",
-          "SQL",
-          "Django",
-          "Docker",
-          "Data Analysis/Visualization(Numpy, Pandas, Scikit-Learn, MatPlotLib, Plotly)",
-          "MongoDB",
-          "Express",
-          "React-Bootstrap",
-          "Node.js",
-          "Bootstrap",
-          "React",
-          "JSON",
-          "Bash",
-          "HTML",
-          "CSS",
-          "Agile",
-          "Git",
-          "GitHub",
-          "VS Code"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "CodeFellows Survey",
+      "startDate": "2022",
+      "description": "Took existing survey application and added additional functionality, storing data in user subdomains. Each subdomain will have the ability to organize, take notes and delete survey data from their organization.",
+      "images": [
+        "images/cfSurvey_face-4.13.2022.png",
+        "images/cfSurvey_notes-4.13.2022.png",
+        "images/cfSurvey_surveys-4.13.2022.png"
+      ],
+      "url": "https://github.com/the-power-coders",
+      "technologies": [
+        {
+          "class": "",
+          "name": "JavaScript"
+        },
+        {
+          "class": "",
+          "name": "React"
+        },
+        {
+          "class": "",
+          "name": "React-Bootstrap"
+        },
+        {
+          "class": "",
+          "name": "Axios"
+        },
+        {
+          "class": "",
+          "name": "Express"
+        },
+        {
+          "class": "",
+          "name": "HTML"
+        },
+        {
+          "class": "",
+          "name": "CSS"
+        }
+      ]
+    },
+    {
+      "title": "Animal Racer",
+      "startDate": "2022",
+      "description": "A trivia race project to showcase creativity and construct a trivial website that gives our users the ability to test their animal knowledge while experiencing the excitement of a real-time race.",
+      "images": [
+        "images/animal-racer-home.png",
+        "images/animal-racer-screenshot.png"
+      ],
+      "url": "https://the-go-gitters.github.io/trivia-race/index.html",
+      "technologies": [
+        {
+          "class": "",
+          "name": "JavaScript"
+        },
+        {
+          "class": "",
+          "name": "HTML"
+        },
+        {
+          "class": "",
+          "name": "CSS"
+        }
+      ]
+    },
+    {
+      "title": "Bus Mall Products",
+      "startDate": "2022",
+      "description": "Project assignment that I learned how to toggle pictures and render a graph based out of how many likes each picture got.",
+      "images": [
+        "images/busMall-screenshot.png",
+        "images/busMall-screenshot2.png"
+      ],
+      "url": "https://rangelmatt.github.io/lab11/",
+      "technologies": [
+        {
+          "class": "",
+          "name": "JavaScript"
+        },
+        {
+          "class": "",
+          "name": "HTML"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Code Fellows",
+      "title": "Software Engineer",
+      "years": "12.2021 - 06.2022",
+      "mainTech": [
+        "Python 6/24/22"
+      ],
+      "technologies": [
+        "Python",
+        "JavaScript",
+        "SQL",
+        "Django",
+        "Docker",
+        "Data Analysis/Visualization:",
+        "(Numpy,",
+        "Pandas,",
+        "Scikit-Learn,",
+        "MatPlotLib,",
+        "Plotly)",
+        "MongoDB",
+        "Express",
+        "React-Bootstrap",
+        "Node.js",
+        "Bootstrap",
+        "React",
+        "JSON",
+        "Bash",
+        "HTML",
+        "CSS",
+        "Agile",
+        "Git",
+        "GitHub",
+        "VS Code"
+      ]
+    }
+  ]
+}

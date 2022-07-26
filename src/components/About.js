@@ -1,8 +1,10 @@
 import React, { Component } from "react";
 import { Icon } from "@iconify/react";
 import javaScript from "@iconify/icons-logos/javascript";
+import python from "@iconify/icons-logos/python";
+import django from "@iconify/icons-logos/django-icon";
 import reactIcon from "@iconify/icons-logos/react";
-import visualStudioCode from "@iconify/icons-logos/visual-studio-code";
+import docker from "@iconify/icons-logos/docker-icon"; 
 
 
 class About extends Component {
@@ -33,7 +35,15 @@ class About extends Component {
                     alt="Avatar placeholder"
                   />
                   <Icon
+                    icon={python}
+                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                  />
+                  <Icon
                     icon={javaScript}
+                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                  />
+                  <Icon
+                    icon={django}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
@@ -41,7 +51,7 @@ class About extends Component {
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={visualStudioCode}
+                    icon={docker}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                 </span>
@@ -79,7 +89,7 @@ class About extends Component {
                     }}
                   >
                     <br />
-                    <span className="wave">{hello} :) </span>
+                    <span className="wave">{hello} 👋</span>
                     <br />
                     <br />
                     {about}
