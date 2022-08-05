@@ -14,12 +14,17 @@
           "class": "fab fa-linkedin"
         },
         {
+          "name": "LinkedIn",
+          "url": "https://angel.co/u/matt-j-rangel",
+          "class": "fab fa-angellist"
+        },
+        {
           "name": "E mail",
           "url": "mailto:mattrangel@gmail.com",
           "class": "fa fa-envelope"
         },
         {
-          "name": "LinkedIn",
+          "name": "Phone",
           "url": "tel:+1-206-816-5883",
           "class": "fa fa-phone"
         }
