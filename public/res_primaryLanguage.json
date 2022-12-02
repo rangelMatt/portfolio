@@ -35,6 +35,78 @@
       ]
     },
     {
+      "title": "Local Gym Website",
+      "startDate": "2022",
+      "description": "Local gym website to showcase equipment and serve as the landing page for gym's online presence",
+      "images": [
+        "images/ccb-main.png",
+        "images/ccb-buttonhover.png",
+        "images/ccb-modal.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "",
+          "name": "JavaScript"
+        },
+        {
+          "class": "",
+          "name": "React"
+        },
+        {
+          "class": "",
+          "name": "SASS"
+        },
+        {
+          "class": "",
+          "name": "HTML"
+        },
+        {
+          "class": "",
+          "name": "CSS"
+        }
+      ]
+    },
+    {
+      "title": "Movie Rater",
+      "startDate": "2022",
+      "description": "A web app that has a login and enables the user to create, read, update, and delete movies as well as rank them based on a star scale. (*WIP* Heroku made some changes that requires changes in my code.) ",
+      "images": [
+        "images/mr-login.png"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "",
+          "name": "Python"
+        },
+        {
+          "class": "",
+          "name": "Django"
+        },
+        {
+          "class": "",
+          "name": "JavaScript"
+        },
+        {
+          "class": "",
+          "name": "React"
+        },
+        {
+          "class": "",
+          "name": "Rest Framework"
+        },
+        {
+          "class": "",
+          "name": "Firebase"
+        },
+        {
+          "class": "",
+          "name": "Heroku"
+        }
+      ]
+    },
+    {
       "title": "CodeFellows Survey",
       "startDate": "2022",
       "description": "Took existing survey application and added additional functionality, storing data in user subdomains. Each subdomain will have the ability to organize, take notes and delete survey data from their organization.",
